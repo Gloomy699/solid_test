@@ -1,7 +1,7 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:solid_test/component/widget/slider.dart';
+import 'package:solid_test/component/widget/slider_item.dart';
 import 'package:solid_test/resources/constants.dart';
 
 /// The `TestLayout` class represents the home page of the application.
